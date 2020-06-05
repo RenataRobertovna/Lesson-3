@@ -1,0 +1,3 @@
+C:/RenataSafarova/CLion/23.11.2019/cmake-build-debug/CMakeFiles/23_11_2019.dir
+C:/RenataSafarova/CLion/23.11.2019/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/RenataSafarova/CLion/23.11.2019/cmake-build-debug/CMakeFiles/rebuild_cache.dir
